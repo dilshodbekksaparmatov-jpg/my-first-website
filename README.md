@@ -1,2 +1,2 @@
-# my-first-website
+# first repo
 My first personal website built with HTML, CSS and JavaScript using GitHub Pages.
